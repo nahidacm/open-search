@@ -1,0 +1,1 @@
+Opensearch Docker dev stack. Only use for development purpose. Not ready for production.
